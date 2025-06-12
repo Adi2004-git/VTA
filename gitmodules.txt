@@ -1,0 +1,9 @@
+[submodule "VTA-Client"]
+	path = VTA-Client
+	url = https://github.com/AdrijaDastidar/VTA-Client.git
+[submodule "VTA-Server"]
+	path = VTA-Server
+	url = https://github.com/AdrijaDastidar/VTA-Server.git
+[submodule "VTA-Python"]
+	path = VTA-Python
+	url = https://github.com/AdrijaDastidar/VTA-Python.git
