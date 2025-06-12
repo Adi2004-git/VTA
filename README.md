@@ -208,8 +208,8 @@ _Visualize class-wide trends, identify struggling areas, and adapt lessons._
 
 ## 📬 Contact
 
-Built with passion by **Adrija Dastidar**  
-📧 Email: `adrijadastidar@gmail.com`  
+Built with passion by **Aditya Kamat**  
+📧 Email: `adityavkamat@gmail.com`  
 
 ---
 
